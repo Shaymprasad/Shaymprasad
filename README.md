@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on app or website development
 - 📫 How to reach me shyamprasadreddy02@gmail.com
-- 😄 Pronouns: Shyam
+- 😄 Pronouns: hi or him
 - ⚡ Fun fact: I hate coding
 
 <!---
